@@ -1,3 +1,4 @@
+Xdistance [mm],Ydistance [mm],Freq [MHz],"mag(Zt(Source1_T1,Source1_T1) - ((Zt(Source1_T1,Source2_T1)*Zt(Source2_T1,Source1_T1)))/(Zt(Source2_T1,Source2_T1)+50)) []"
 0.254,10.254,0.1,50.20602588
 0.254,10.254,0.101157945,50.20611584
 0.254,10.254,0.102329299,50.20620783
